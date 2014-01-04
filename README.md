@@ -1,5 +1,5 @@
-Rosalie Stevenson
-#####Sample Websites:
+Rosalie Stevenson[TAB]
+**Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
 #Objective

@@ -12,10 +12,9 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 Experienced programmer looking for a position of secure employment in a well-organized company. 
 Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Python.
 
-#Experience:
+#Experience:#
 
 *
- 
 #####TubeMogul 08/10/13-Present
 
    Working as a support engineer to a company that has created a platform for storing and managing the statistics that accompany serving video advertisments. 

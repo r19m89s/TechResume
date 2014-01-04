@@ -1,5 +1,5 @@
 
-<p align="center"><b><font size="30">Rosalie Stevenson</font></b></p>
+<p align="center"><b><font size="60">Rosalie Stevenson</font></b></p>
 
 #Summary
 

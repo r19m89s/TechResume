@@ -14,26 +14,18 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 * Java
 * PHP
 * Python
+
+###Scripting Languages:
+* JavaScript
+* JQuery
+* AJAX 
+* JSON
+* CSS
+
 ###Markdown Languages:
 * HTML 
-* 
 * Markdown
-* 
-<table>
-  <tr>
-  <td>
-###Programming Languages:
-  <ul>
-  <li>C++</li>
-  <li>C</li>
-  <li>Java</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>Bash</li>
-  </ul>
-  </td>
-  </tr>
-</table>
+* XML
 
 #Experience#
 

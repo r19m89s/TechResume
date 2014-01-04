@@ -13,6 +13,7 @@ Experienced programmer looking for a position of secure employment in a well-org
 Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Python.
 
 #Experience:
+
 *
  
 #####TubeMogul 08/10/13-Present
@@ -24,7 +25,6 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
    Write python and command line scripts to automate queries and to shorten the process of searching that is required to find the root cause of such issues.
 
 *
- 
 #####On-Site.com               09/1/12-08/07/13
 
    Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the accompanying legal forms.

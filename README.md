@@ -8,24 +8,14 @@ Experienced computer scientist with back-end and front-end experience seeking em
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
 #Skills#
-###Programming Languages:
-* C++
-* C
-* Java
-* PHP
-* Python
+###Programming Languages
+C++, C, Java 
 
-###Scripting Languages:
-* JavaScript
-* JQuery
-* AJAX 
-* JSON
-* CSS
+###Scripting Languages
+PHP, Python, JavaScript
 
-###Markdown Languages:
-* HTML 
-* Markdown
-* XML
+###Markdown Languages
+JavaScript, CSS, HTML, XML
 
 #Experience#
 

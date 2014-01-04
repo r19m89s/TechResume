@@ -7,6 +7,13 @@ Experienced computer scientist with back-end and front-end experience seeking em
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
+#Skills#
+<table>
+  <tr>
+     <td> * Javascript </td>
+  </tr>
+</table>
+
 #Experience#
 
 ###TubeMogul 

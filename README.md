@@ -1,12 +1,12 @@
-#Rosalie Stevenson
+->Rosalie Stevenson<-
+
+#Summary
+
+Computer scientist with an excited outlook on problem-solving.
 
 **Sample Websites:**
 
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
-
-#Objective
-Programmer with back-end and front-end experience looking for a position of secure employment in a well-organized company. 
-Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Python.
 
 #Experience#
 

@@ -10,8 +10,14 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 #Skills#
 <table>
   <tr>
-     <td>  Javascript </td>
-     <td> PHP</td>
+     <td>Javascript</td>
+     <td>JQuery</td>
+     <td>CSS</td>
+     <td>AJAX</td>
+     <td>HTML</td>
+     <td>XML</td>
+     <td>PHP</td>
+     <td>Python</td>
   </tr>
 </table>
 

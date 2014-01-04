@@ -1,5 +1,5 @@
 
-<h1>Rosalie Stevenson</h1>
+<p align="center">Rosalie Stevenson</p>
 
 #Summary
 

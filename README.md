@@ -1,5 +1,5 @@
 
-<h3  align="center" size="50px">Rosalie Stevenson</h3>
+<h3  align="center" size="200px">Rosalie Stevenson</h3>
 
 #Summary
 

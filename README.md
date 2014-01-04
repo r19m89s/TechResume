@@ -1,6 +1,7 @@
 
 <h2  align="center">Rosalie Stevenson</h2>
 
+###Summary
 Computer scientist with an excited outlook on problem-solving.
 
 **Sample Websites:**

@@ -1,7 +1,5 @@
 
-<h3  align="center" size="200px">Rosalie Stevenson</h3>
-
-#Summary
+<h2  align="center">Rosalie Stevenson</h2>
 
 Computer scientist with an excited outlook on problem-solving.
 

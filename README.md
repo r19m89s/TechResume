@@ -1,4 +1,5 @@
 Rosalie Stevenson
+
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
@@ -8,8 +9,7 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
 
 #Experience#
 
-###TubeMogul 
-####08/10/13-Present
+###TubeMogul ####08/10/13-Present
 
    Working as a support engineer to a company that has created a platform for storing and managing the statistics that accompany serving video advertisments. 
 

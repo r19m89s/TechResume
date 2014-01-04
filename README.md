@@ -1,6 +1,7 @@
 Rosalie Stevenson
 
 **Sample Websites:**
+
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
 #Objective
@@ -9,7 +10,8 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
 
 #Experience#
 
-###TubeMogul ####08/10/13-Present
+###TubeMogul 
+####08/10/13-Present
 
    Working as a support engineer to a company that has created a platform for storing and managing the statistics that accompany serving video advertisments. 
 
@@ -38,13 +40,15 @@ Edited the UI of the online application processing page when needed with AJAX, C
 
 #Education:
 
-###University of California, Santa Cruz       06/11/07-06/11/12
+###University of California, Santa Cruz      
+#### 06/11/07-06/11/12
 
    Graduated with a BS in Computer Science.
 
    Involved in many activities on campus (please inquire if interested).
 
-###Convent of the Sacred Heart, High School   09/04-06/07
+###Convent of the Sacred Heart, High School   
+#### 09/04-06/07
 
    Took programming and graphic design classes for three of the four years.
 

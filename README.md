@@ -16,6 +16,8 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
      <td>AJAX</td>
      <td>HTML</td>
      <td>XML</td>
+     <td>Markdown</td>
+     <td>JSON</td>
      <td>PHP</td>
      <td>Python</td>
   </tr>

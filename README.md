@@ -1,4 +1,4 @@
-Rosalie Stevenson[TAB]
+Rosalie Stevenson
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
@@ -8,7 +8,8 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
 
 #Experience#
 
-###TubeMogul 08/10/13-Present
+###TubeMogul 
+####08/10/13-Present
 
    Working as a support engineer to a company that has created a platform for storing and managing the statistics that accompany serving video advertisments. 
 
@@ -16,7 +17,8 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
 
    Write python and command line scripts to automate queries and to shorten the process of searching that is required to find the root cause of such issues.
 
-###On-Site.com               09/1/12-08/07/13
+###On-Site.com               
+####09/1/12-08/07/13
 
   Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the accompanying legal forms.
 
@@ -25,7 +27,8 @@ Past/Current experience in PHP, MySQL, C++, HTML, CSS, JavaScript, Java, and Pyt
    Built forms in AJAX, XML, and CSS that were printed within our online system.
 Edited the UI of the online application processing page when needed with AJAX, CSS, JavaScript, JQuery, and Java.
 
-###X2Engine CRM       04/06/12 – 07/3/12
+###X2Engine CRM       
+####04/06/12 – 07/3/12
 
    Worked for a fairly new CRM that was built on a Yii-based framework that attempted to address every need that a company would need to stay organized. 
 

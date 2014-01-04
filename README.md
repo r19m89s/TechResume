@@ -4,7 +4,6 @@
 Computer scientist with an excited outlook on problem-solving.
 
 **Sample Websites:**
-
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
 #Experience#

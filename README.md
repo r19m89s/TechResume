@@ -71,8 +71,3 @@ Edited the UI of the online application processing page when needed with AJAX, C
 
    Took programming and graphic design classes for three of the four years.
 
-#Skills
-* Experience in animation, video game and graphic design.
-* Experience in Linux and programming for open source software.
-
-

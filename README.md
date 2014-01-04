@@ -42,11 +42,13 @@ Edited the UI of the online application processing page when needed with AJAX, C
 #Education:
 
 * **University of California, Santa Cruz       06/11/07-06/11/12**
+
    Graduated with a BS in Computer Science.
 
    Involved in many activities on campus (please inquire if interested).
 
 * **Convent of the Sacred Heart, High School   09/04-06/07**
+
    Took programming and graphic design classes for three of the four years.
 
 #Skills

@@ -32,8 +32,7 @@ Using SQL and grepping logs to uncover the root cause for UI and statistic issue
 
 Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the resulting legal forms.
 
-Used AJAX, XML, and CSS to customize templates for legal forms to meet individual clients' needs.
-Used AJAX, CSS, JQuery, and Java to customize our online application process for individual clients.
+Used AJAX, XML, CSS, JQuery and Java to customize templates for legal forms and the standardized online application process  to meet individual clients' needs.
 
 ###X2Engine CRM       
 ####04/06/12 – 07/3/12

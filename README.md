@@ -1,5 +1,6 @@
 
-<h2  align="center">Rosalie Stevenson</h2>
+<h3  align="center">Rosalie Stevenson</h3>
+
 
 ###Summary
 Experienced computer scientist with back-end and front-end experience seeking employment at a well-organized and established company.
@@ -47,7 +48,7 @@ Aided in editing the dashboard's JavaScript file to allow the user to edit the s
 ###University of California, Santa Cruz      
 #### 06/11/07-06/11/12
 
-   Graduated with a BS in Computer Science.
+   Graduated with a bachelor of science in Computer Science.
 
    Involved in many activities on campus (please inquire if interested).
 

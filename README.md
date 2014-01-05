@@ -8,15 +8,6 @@ Experienced computer scientist with back-end and front-end experience seeking em
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
-#Skills#
-###Programming Languages
-C++, C, Java 
-
-###Scripting Languages
-PHP, Python, JavaScript
-
-###Markdown Languages
-JavaScript, CSS, HTML, XML
 
 #Experience#
 
@@ -42,6 +33,16 @@ Worked for a fairly new CRM that was built on a Yii-based framework that acts as
 Used PHP and Google Analytic scripting language to create a widget for the user's dashboard, where a clock's time could be  edited to match particular time zones, specifically for internationally-based clients.
 
 Aided in editing the dashboard's JavaScript file to allow the user to edit the size and order of the widgets, by making them draggable and scalable.
+
+#Skills#
+###Programming Languages
+C++, C, Java 
+
+###Scripting Languages
+PHP, Python, JavaScript
+
+###Markdown Languages
+JavaScript, CSS, HTML, XML
 
 #Education:
 

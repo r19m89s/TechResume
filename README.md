@@ -1,5 +1,7 @@
 
 <h3  align="center">Rosalie Stevenson</h3>
+<p align="center">Oakland, CA</p>
+<p align="center">510-590-6381</p>
 
 
 ###Summary

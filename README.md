@@ -46,7 +46,7 @@ PHP, Python, JavaScript
 ###Markdown Languages
 JavaScript, CSS, HTML, XML
 
-#Education:
+#Education
 
 ###University of California, Santa Cruz      
 #### 06/11/07-06/11/12

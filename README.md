@@ -7,7 +7,8 @@ Experienced computer scientist with back-end and front-end experience seeking em
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
-#Skills#
+nstall#Skills#
+* XML
 ###Programming Languages
 C++, C, Java 
 
@@ -22,30 +23,26 @@ JavaScript, CSS, HTML, XML
 ###TubeMogul 
 ####08/10/13-Present
 
-   Working as a support engineer to a company that has created a platform for storing and managing the statistics that accompany serving video advertisments. 
+Support engineer to a platform constructed to store, manage, and display the statistics that accompanies the process of serving  video advertisements online.
 
-  Ease the strain put on engineers by solving which UI/statistic collection issues are causing errors that account managers escalate to engineering, and alerting either the managers of certain engineering teams or members of the same team of my findings (when required).
-
-   Write python and command line scripts to automate queries and to shorten the process of searching that is required to find the root cause of such issues.
+Using SQL and grepping logs to uncover the root cause for UI and statistic issues that are brought to the engineering team by account managers, writing Python and command line scripts to automate these queries when they become repetitve. 
 
 ###On-Site.com               
 ####09/1/12-08/07/13
 
-  Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the accompanying legal forms.
+Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the resulting legal forms.
 
-   Acted as, in the simplest terms, a support engineer, speaking to account managers and translating client's needs to engineering changes, escalating these requests when required.
-
-   Built forms in AJAX, XML, and CSS that were printed within our online system.
-Edited the UI of the online application processing page when needed with AJAX, CSS, JavaScript, JQuery, and Java.
+Used AJAX, XML, and CSS to customize templates for legal forms to meet individual clients' needs.
+Used AJAX, CSS, JQuery, and Java to customize our online application process for individual clients.
 
 ###X2Engine CRM       
 ####04/06/12 – 07/3/12
 
-   Worked for a fairly new CRM that was built on a Yii-based framework that attempted to address every need that a company would need to stay organized. 
+Worked for a fairly new CRM that was built on a Yii-based framework that acts as an end-all be-all organizational tool for client companies.
+ 
+Used PHP and Google Analytic scripting language to create a widget for the user's dashboard, where a clock's time could be  edited to match particular time zones, specifically for internationally-based clients.
 
-   Wrote View and Module files for widgets that would accent the dashboard that the user would see immediately after they accessed their account, most specifically a time zone widget that would allow the user to see any time in any time zone that they selected, for clients that maintained international connections.
-
-   Aided in editing the JavaScript file that controlled the user's dashboard page to allow the user to move the widgets around the page and edit the way that they're displayed on the page.
+Aided in editing the dashboard's JavaScript file to allow the user to edit the size and order of the widgets, by making them draggable and scalable.
 
 #Education:
 

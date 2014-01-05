@@ -7,8 +7,7 @@ Experienced computer scientist with back-end and front-end experience seeking em
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
-nstall#Skills#
-* XML
+#Skills#
 ###Programming Languages
 C++, C, Java 
 

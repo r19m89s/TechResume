@@ -13,8 +13,13 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 
 ##Experience##
 
-###TubeMogul 
-####08/10/13-Present
+###TubeMogul - Software Engineer In Test
+####08/10/14-08/16/14
+
+Developing test suites in Java, Python, and bash scripts to monitor, unit test, and  improve the quality for both the RTB (Real-Time Bidding) and PTV (Programmatic Television) teams within a larger advertising company.
+
+###TubeMogul - Application Engineer
+####08/10/13-08/16/14
 
 Support engineer to a platform constructed to store, manage, and display the statistics that accompanies the process of serving  video advertisements online.
 

@@ -13,8 +13,12 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 
 ##Experience##
 
+###Adobe - Software Engineer in Test
+####1/1/17-Current
+Developing test suites using New Relic synthetics, Java, Python, BASH and Robot Framework for the PTV team in a larger advertising cloud team.
+
 ###TubeMogul - Software Engineer In Test
-####08/10/14-Current
+####08/10/14-1/1/17
 Developing test suites in Java, Python, and bash scripts to monitor, unit test, and  improve the quality for both the RTB (Real-Time Bidding) and PTV (Programmatic Television) teams within a larger advertising company.
 
 ###TubeMogul - Application Engineer

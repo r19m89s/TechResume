@@ -7,7 +7,7 @@
 ### Summary
 Experienced computer scientist with back-end and front-end experience seeking employment at a well-organized and established company.
 
-** Sample Websites:
+**Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
 

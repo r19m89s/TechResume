@@ -12,9 +12,12 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 
 
 ## Experience
+### Adobe - Software Developer
+#### 7/1/18 - Current
+Developing synchronous jobs in Java that interact with MySQL database, relying on Hazelcast. Incorporating Kubernetes reliance/compliancy into code.
 
 ### Adobe - Software Engineer in Test
-#### 1/1/17-Current
+#### 1/1/17-7/1/18
 Developing test suites using New Relic synthetics, Java, Python, BASH and Robot Framework for the PTV team in a larger advertising cloud team.
 
 ### TubeMogul - Software Engineer In Test

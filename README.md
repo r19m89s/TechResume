@@ -14,7 +14,7 @@ drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.ht
 ## Experience
 ### Adobe - Software Developer
 #### 7/1/18 - Current
-Developing synchronous jobs in Java that interact with MySQL database, relying on Hazelcast. Incorporating Kubernetes reliance/compliancy into code.
+Developing synchronous jobs in Java that interact with MySQL database, relying on Hazelcast. Creating Python scripts for flexible database and server alterations. Constructing Java APIs to compute, process and format mysql data to be consumed by a UI interface. Incorporating Kubernetes reliance/compliancy into code.
 
 ### Adobe - Software Engineer in Test
 #### 1/1/17-7/1/18

@@ -27,6 +27,7 @@ JavaScript, CSS, HTML, XML
 - Writing RESTful APIs that were constructed from the data sets ingested from both first and third party partners. 
 - Formatting, restructuring, and rebuilding MySQL queries that interact with large sets of data that power these APIs and processes. 
 - Built a generic library within our system that used Java reflection and object handling to create an OutputStream to be written to a file. 
+- Worked on a team that was concurrently transitioning into using Docker and Kubernetes to support CI/CD.
 
 ### Adobe - Software Engineer in Test
 #### 1/1/17-7/1/18

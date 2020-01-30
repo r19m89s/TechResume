@@ -10,6 +10,15 @@ Experienced computer scientist with back-end and front-end experience seeking em
 **Sample Websites:**
 drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
 
+## Skills##
+### Programming Languages
+C++, C, Java, Python, MySQL, 
+
+### Scripting Languages
+PHP, Python, JavaScript
+
+### Markdown Languages
+JavaScript, CSS, HTML, XML
 
 ## Experience
 ### Adobe - Software Developer
@@ -45,41 +54,27 @@ Customer facing support engineer for a large, internationl advertising start-up.
 
 ### On-Site.com               
 #### 09/1/12-08/07/13
-
 Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused on building a standardized format for rental application processes and the resulting legal forms.
-
-Used AJAX, XML, CSS, JQuery and Java to customize templates for legal forms and the standardized online application process  to meet individual clients' needs.
+ - Created rental documents for users using AJAX, XML and CSS.
+ - Created landing pages for several rental agencies using CSS, JQuery and HTML.
+ - Contributed to one-off smaller projects in Ruby that focused on the creation and maintenance of customer relationships.
 
 ### X2Engine CRM       
 #### 04/06/12 – 07/3/12
-
 Worked for a fairly new CRM that was built on a Yii-based framework that acts as an end-all be-all organizational tool for client companies.
- 
-Used PHP and Google Analytic scripting language to create a widget for the user's dashboard, where a clock's time could be  edited to match particular time zones, specifically for internationally-based clients.
-
-Aided in editing the dashboard's JavaScript file to allow the user to edit the size and order of the widgets, by making them draggable and scalable.
-
-## Skills##
-### Programming Languages
-C++, C, Java, Python, MySQL, 
-
-### Scripting Languages
-PHP, Python, JavaScript
-
-### Markdown Languages
-JavaScript, CSS, HTML, XML
+ - Used PHP and Google Analytic scripting language to create a clock widget for the user's dashboard, through which the time would be updated to accomodate international users.
+ - Used JavaScript to allow the user to edit the size and order of dashboard widgets.
 
 ## Education
 
 ### University of California, Santa Cruz      
 #### 06/11/07-06/11/12
-
-   Graduated with a bachelor of science in Computer Science. Primarily programmed in C++ and Java.
-
-   Involved in many activities on campus (please inquire if interested).
+Graduated with a bachelor of science in Computer Science. Primarily programmed in C++ and Java.
+Extra-Curriculars: Delta Lambda Psi, Slugs in Fishnets, Banana Slugs for Animals, NASCO representative. 
 
 ### Convent of the Sacred Heart, High School   
 #### 09/04-06/07
-
-   Took programming and graphic design classes for three of the four years. Took both AP computer science A and AB, classes in tcomputer hardware to learn about implementing Ubuntu OS and constructing mother boards.
+Took full advantage of our software and hardware engineering classes.
+ - Took both AP computer science A and AB.
+ - Took classes in computer hardware to learn about implementing Ubuntu OS and constructing mother boards.
 

@@ -6,27 +6,29 @@
 
 
 ### Summary
-Experienced computer scientist with back-end and front-end experience seeking employment at a well-organized and established company.
+Experienced computer scientist with experience building automated test frameworks, contributing to back-end services in data-driven distributed systems, and one-off front-end projects. 
 
 **Sample Websites:**
-drupal.urbics.com, x2engine.com, http://saferstalls.github.io/SaferStalls/map.html
+http://saferstalls.github.io/SaferStalls/map.html
 
 ## Skills##
 ### Programming Languages
-C++, C, Java, Python, MySQL, 
+C++, C, Java, Python, MySQL
 
 ### Scripting Languages
-PHP, Python, JavaScript
+PHP, JavaScript
 
 ### Markdown Languages
-JavaScript, CSS, HTML, XML
+CSS, HTML, XML, YAML, JSON
 
 ## Experience
 ### Adobe - Software Developer
 #### 7/1/18 - Current
-- Contributing to chron-scheduled synchronous processes, written in Java, that either ingested data from third party partners or  processed and formatted large sets of data for e-mail communications. 
-- Writing RESTful APIs that were constructed from the data sets ingested from both first and third party partners. 
-- Formatting, restructuring, and rebuilding MySQL queries that interact with large sets of data that power these APIs and processes. 
+Back-end software engineer on a sub-team that creates scheduled and immediate asynchronous server processes, maintains data storage, and integrates and normalizes data stored by other sub teams for first and third party partners. 
+- Wrote several RESTful APIs to query and format data, then surfaced by our systems user interface.
+- Debugged and created a code fix for a race condition that had been surfaced within our generic scheduling library.
+- Contributed to and wrote several asynchronous scheduled processes to support data collection.
+- Debugged, reformatted, and rebuilt MySQL queries to better service run-time.
 - Built a generic library within our system that used Java reflection and object handling to create an OutputStream to be written to a file. 
 - Worked on a team that was concurrently transitioning into using Docker and Kubernetes to support CI/CD.
 
@@ -60,12 +62,6 @@ Worked for a 5-year old Ruby-On-Rails-based real estate start-up which focused o
  - Created rental documents for users using AJAX, XML and CSS.
  - Created landing pages for several rental agencies using CSS, JQuery and HTML.
  - Contributed to one-off smaller projects in Ruby that focused on the creation and maintenance of customer relationships.
-
-### X2Engine CRM       
-#### 04/06/12 – 07/3/12
-Worked for a fairly new CRM that was built on a Yii-based framework that acts as an end-all be-all organizational tool for client companies.
- - Used PHP and Google Analytic scripting language to create a clock widget for the user's dashboard, through which the time would be updated to accomodate international users.
- - Used JavaScript to allow the user to edit the size and order of dashboard widgets.
 
 ## Education
 

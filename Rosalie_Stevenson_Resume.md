@@ -13,7 +13,7 @@ http://saferstalls.github.io/SaferStalls/map.html
 
 ## Skills##
 ### Programming Languages
-C++, C, Java, Python, MySQL
+Java, MySQL, Python, C++
 
 ### Scripting Languages
 PHP, JavaScript
@@ -43,8 +43,7 @@ Performed manual and automated testing for the PTV team.
 ### TubeMogul - Software Engineer In Test
 #### 08/10/14-1/1/17
 Developing test suites in Java, Python, and bash scripts to monitor, unit test, and  improve the quality for both the RTB (Real-Time Bidding) and PTV (Programmatic Television) teams within a larger advertising company.
-- Monitored and contributed to release processes.
-- Monitored and contributed to server health.
+- Monitored and contributed to release processes and server health.
 - Contributed to a larger testing infrastructure, built in JUnit, to black-box test RTB data.
 - Created a test module to monitor Kafka messaging in Java. 
 - Consistently contributed to the automation (in several different languages) of both back end and front end test processes.

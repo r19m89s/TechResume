@@ -25,7 +25,7 @@ CSS, HTML, XML, YAML, JSON
 ### Adobe - Software Developer
 #### 7/1/18 - Current
 Back-end software engineer on a sub-team that creates scheduled and immediate asynchronous server processes, maintains data storage, and integrates and normalizes data stored by other sub teams for first and third party partners. 
-- Wrote several RESTful APIs to query and format data, then surfaced by our systems user interface.
+- Wrote several RESTful APIs within a SPRING powered framework to query and format data, then surfaced by our systems user interface.
 - Debugged and created a code fix for a race condition that had been surfaced within our generic scheduling library.
 - Contributed to and wrote several asynchronous scheduled processes to support data collection.
 - Debugged, reformatted, and rebuilt MySQL queries to better service run-time.

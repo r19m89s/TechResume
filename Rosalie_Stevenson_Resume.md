@@ -39,6 +39,7 @@ Performed manual and automated testing for the PTV team.
 - Refactored constructed test framework to use non-static data.
 - Contributed to and supported UI testing in the form of creating ROBOT and TypeScript Cypress tests.
 - Created PostMan lightweight scripts to test APIs before constructution of the Java framework.
+- Configured several Jenkins processes to automate integration test runs.
 
 ### TubeMogul - Software Engineer In Test
 #### 08/10/14-1/1/17

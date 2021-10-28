@@ -22,8 +22,18 @@ PHP, JavaScript
 CSS, HTML, XML, YAML, JSON
 
 ## Experience
+
+### Fivetran - Senior Software Engineer
+#### 3/1/20-Current
+Back-end Java engineer on a team that runs the ETL process on MongoDB and Postgres source databases.
+- Optimized a asynchronous newly developed program to mitigate ticket intake and speed of "connector" (ETL process). Reduced both ticket numbers and speed of connector by 1/3.
+- Developed a feature that allowed users to enable a real-time cursor on MongoDB databases, reducing speed of sync by a quarter.
+- Led tech interviews for customer support engineers and software development engineers.
+- Worked on cross-functional teams through the organization to optimize the speed of connectors universally, sharing knowledge of Java profiling and asynchronization with several members of the staff.
+- Maintained unit tests and integration tests, creating a script that allowed these tests to integrate with docker.
+
 ### Adobe - Software Developer
-#### 7/1/18 - Current
+#### 7/1/18 - 3/1/20
 Back-end software engineer on a sub-team that creates scheduled and immediate asynchronous server processes, maintains data storage, and integrates and normalizes data stored by other sub teams for first and third party partners. 
 - Wrote several RESTful APIs within a SPRING powered framework to query and format data, then surfaced by our systems user interface.
 - Debugged and created a code fix for a race condition that had been surfaced within our generic scheduling library.
